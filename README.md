@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**nselem/nselem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+"We are all smart. Disntiguish yourself for being kind. "
+Charles Gordon
 
 - 🔭 I’m currently working on metapangenomics
 - 🌱 I’m currently learning metagenomics and pangenomic tools
@@ -13,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nselem@matmor.unam.mx
 - 😄 Pronouns: She
 - ⚡ Fun fact: ...
--->
+
+![img/ODS-14.jpg]
