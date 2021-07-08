@@ -1,5 +1,5 @@
 ### Hi there 👋 Im Nelly Sélem
-I'm starting my lab at CCM. I’m interested in developing bioinformatic tools to study microorganism’s comparative genomics and evolution. The lab philosophy is the Charles Gordon's always valid thought:  "We are all smart. Disntiguish yourself for being kind. " 
+I'm starting my research group at CCM. I’m interested in developing bioinformatic tools to study microorganism’s comparative genomics and evolution. The lab philosophy is the Charles Gordon's always valid thought:  "We are all smart. Disntiguish yourself for being kind. " 
 
 - 🔭 We are currently working on metapangenomics. 
 - 🌱 Our group is learning by teaching metagenomics and pangenomics tools.
