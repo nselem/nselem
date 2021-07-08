@@ -1,5 +1,5 @@
 ### Hi there 👋 Im Nelly Sélem
-I'm starting my lab at CCM. I’m interested in developing bioinformatic tools to study microorganism’s comparative genomics and evolution. The lab philosophy is always valid thought: 
+I'm starting my lab at CCM. I’m interested in developing bioinformatic tools to study microorganism’s comparative genomics and evolution. The lab philosophy is the always valid thought: 
 "We are all smart. Disntiguish yourself for being kind. "
 Charles Gordon
 
