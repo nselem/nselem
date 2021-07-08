@@ -1,10 +1,10 @@
 ### Hi there 👋 Im Nelly Sélem
 I'm starting my lab at CCM. I’m interested in developing bioinformatic tools to study microorganism’s comparative genomics and evolution. The lab philosophy is the Charles Gordon's always valid thought:  "We are all smart. Disntiguish yourself for being kind. " 
 
-- 🔭 I’m currently working on metapangenomics. 
-- 🌱 I’m learning by teaching metagenomics and pangenomics tools.
+- 🔭 We are currently working on metapangenomics. 
+- 🌱 Our group is learning by teaching metagenomics and pangenomics tools.
 - 👯 I love collaborative work. As an example here is our [Metagenomics lesson](https://nselem.github.io/metagenomics-workshop/) and the [Pangenome Wikipedia article](https://en.wikipedia.org/wiki/Pan-genome).
-- 🤔 I’m looking for help with wetlab.
+- 🤔 We are looking for collaborations with wetlab work.
 - 💬 Ask me about bioinformatics education
 - 📫 How to reach me: nselem@matmor.unam.mx
 - 😄 Pronouns: She
